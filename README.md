@@ -10,6 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tanush008&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanush008&theme=dark&hide_border=true)<br/>
+
+![image](https://github.com/user-attachments/assets/74847c70-8e59-4b13-a8b2-8137c3473e96)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush008&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
