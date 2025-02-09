@@ -23,10 +23,10 @@
 <br>
 <div align=center>
  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tanush008&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="streak-stats/>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Tanush008&theme=dark&hide_border=true" alt="readme.md"/>
+ <img width=390 src="https://streak-stats.demolab.com/?user=Tanush008&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img widht=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush008&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   
-![image](https://github.com/user-attachments/assets/ca80c88e-d862-4415-93b5-751274b75e7b)
+ <img width=390 src="https://streak-stats.demolab.com/?user=Tanush008&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 </div>
 
