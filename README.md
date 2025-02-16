@@ -21,6 +21,7 @@
 <br>
 <div align="center">
 <img width=350 src="https://github-readme-stats.vercel.app/api?username=Tanush008&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="streak-stats/>
+  
 <img width = 350 src="https://github-readme-streak-stats.herokuapp.com?user=Tanush008&theme=dark"/> 
 <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanush008&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>  
 </div>
