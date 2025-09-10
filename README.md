@@ -7,8 +7,9 @@
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/Tanush_12/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"alt="jyot" height="200" width="200" /></a>
-<!--   <a href="https://leetcode.com/u/user0641dj/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a> -->
-<!--   <a href="https://leetcode.com/u/user0641dj/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
+  <a href="https://leetcode.com/u/Tanush_12/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2025-2.png" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/Tanush_12/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/u/Tanush_12/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2025-8.png" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
