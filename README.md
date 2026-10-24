@@ -11,9 +11,9 @@
     <br/>
     <strong>AWS Certified AI Practitioner</strong>
     <br/>
-    <a href="https://aws.amazon.com/verification" target="_blank">
+    <!-- <a href="https://aws.amazon.com/verification" target="_blank">
       Verify Credential
-    </a>
+    </a> -->
   </p>
 
   
