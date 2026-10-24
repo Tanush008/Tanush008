@@ -1,5 +1,21 @@
 
 <div align="center"> 
+
+  <h2 align="center">🏆 AWS Certification</h2>
+  <p align="center">
+    <img
+      src="aws-certified-ai-practitioner_badge.png"
+      alt="AWS Certified AI Practitioner"
+      width="180"
+    />
+    <br/>
+    <strong>AWS Certified AI Practitioner</strong>
+    <br/>
+    <a href="https://aws.amazon.com/verification" target="_blank">
+      Verify Credential
+    </a>
+  </p>
+
   
 <!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
